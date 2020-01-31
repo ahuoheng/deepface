@@ -60,7 +60,7 @@ $ bash download.sh
 ### Test on samples
 
 ```bash
-$ python bin/run_example.py run --source_path=./samples/faces --db_path=./sample_db.pkl --img_path=./samples/blackpink/blackpink1.jpg --method=vgg2
+$ python bin/run_example.py run --source_path=./samples/blackpink/faces --db_path=./sample_db.pkl --img_path=./samples/blackpink/blackpink1.jpg --method=vgg2
 ```
 
 ### Test on a image
